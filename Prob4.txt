@@ -1,0 +1,6 @@
+# Below you should include the commands you used to upload the necessary files to the server,
+# to run the program, and to bring the multiple files back to your local system.
+# Don't forget to upload all 3 files for each puzzle back to GitHub! To keep things tidy you can put them in
+# the Prob4_Materials directory if you want.
+
+

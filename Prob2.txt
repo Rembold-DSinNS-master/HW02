@@ -1,0 +1,3 @@
+# Include the same snippet that you put into your .bashrc file to customize your prompt below
+
+PS1=

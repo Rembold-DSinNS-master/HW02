@@ -1,0 +1,3 @@
+# Include any commands below which you used to achieve the compilation and transfer it over to your local system
+# Don't forget to upload the results back to GitHub as well!
+# If you did edits in Vim, you don't need to include a description of every keystroke or anything, you can just describe what you did
